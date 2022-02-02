@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "ename": "shubham Mane",
+      "age": "23",
+      "city": "pune",
+      "salary": "10000",
+      "id": 1
+    },
+    {
+      "ename": "a",
+      "age": "2",
+      "city": "a",
+      "salary": "1",
+      "id": 2
+    }
+  ]
+}
